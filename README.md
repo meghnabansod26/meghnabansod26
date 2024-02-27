@@ -20,23 +20,28 @@ Hi there! 👋 I'm Meghna Bansod, 2023 B.Tech graduate in Information Technology
 - TypeScript 📘
 - React ⚛️
 
+
 🛠️ **Framework:**
 - Bootstrap 🅱️
 - Angular 🅰️
 - Next.js 🚀
+
 
 💻 **Programming Languages:**
 - C 🐍
 - C++ 🖥️
 - Core Java ☕
 
+
 🛢️ **Database:**
 - MySQL 🐬
 - MongoDB 🍃
 
+
 🚀 **Backend:**
 - Node.js 🚅
 - Express.js 🛤️
+
 
 🔧 **Other:**
 - Git 🌀
