@@ -1,8 +1,6 @@
 
 # Welcome to My GitHub Repository 🚀
 
-[LinkedIn](https://www.linkedin.com/in/meghna-bansod) | [Email](meghnabansod26@gmail.com)
-
 Hi there! 👋 I'm Meghna Bansod, 2023 B.Tech graduate in Information Technology from SGGSIE&T, Nanded.
 
 ## About Me
