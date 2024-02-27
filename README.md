@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/meghna-bansod) | [Email](meghnabansod26@gmail.com)
 
-Hi there! 👋 I'm Meghna Bansod, a recent graduate who completed B.Tech in Information Technology in 2023 from Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded, Maharashtra.
+Hi there! 👋 I'm Meghna Bansod, 2023 B.Tech graduate in Information Technology from SGGSIE&T, Nanded.
 
 ## About Me
 
