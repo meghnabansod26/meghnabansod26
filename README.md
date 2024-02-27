@@ -10,33 +10,12 @@ Hi there! 👋 I'm Meghna Bansod, a 2023 B.Tech graduate in Information Technolo
 
 ### Skills
 
-🌐 **Frontend:**
-- HTML5\t🌈
-- CSS3\t🎨
-- JavaScript\t⚙️
-- TypeScript\t📘
-- React\t⚛️
-
-🛠️ **Framework:**
-- Bootstrap\t🅱️
-- Angular\t🅰️
-- Next.js\t🚀
-
-💻 **Languages:**
-- C\t🐍
-- C++\t🖥️
-- Core Java\t☕
-
-🛢️ **Database:**
-- MySQL\t🐬
-- MongoDB\t🍃
-
-🚀 **Backend:**
-- Node.js\t🚅
-- Express.js\t🛤️
-
-🔧 **Other:**
-- Git\t🌀
+🌐 **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React
+🛠️ **Framework:** Bootstrap, Angular, Next.js
+💻 **Languages:** C, C++, Core Java
+🛢️ **Database:** MySQL, MongoDB
+🚀 **Backend:** Node.js, Express.js
+🔧 **Other:** Git
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meghnabansod/) or drop me an [email](mailto:meghnabansod26@gmail.com).
 
