@@ -22,6 +22,6 @@ Hi there! 👋 I'm Meghna Bansod, a 2023 B.Tech graduate in Information Technolo
 
 🔧 **Other:** Git
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meghna-bansod) or drop me an [email](mailto:meghnabansod26@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meghnabansod/) or drop me an [email](mailto:meghnabansod26@gmail.com).
 
 Explore the projects in this repository, and let's collaborate and build amazing things together!
