@@ -1,43 +1,51 @@
 # Welcome to My GitHub Repository 🚀
 
-Hi there! 👋 I'm Meghna Bansod, a 2023 B.Tech graduate in Information Technology from SGGSIE&T, Nanded.
+Hi there! 👋 I’m a passionate Full Stack Developer with **1+ year of professional experience** building real-world applications, with a strong focus on scalable frontend and backend systems. I enjoy solving problems, writing clean code, and contributing to meaningful software.
 
-## About Me
+### About Me
+- 💼 Software Engineer | Full Stack Developer  
+- 🎓 B.Tech in Information Technology (2023), SGGSIE&T, Nanded  
+- 📍 Pune, India  
 
-- 🎓 B.Tech in Information Technology
-- 💻 Actively working on different projects to specialize in Full Stack development.
-- 🌐 Currently looking for job opportunities as a Software Developer to enhance my knowledge.
+### 🚀 What I Do
+- Build responsive and dynamic web applications using **Angular** and **React**
+- Develop REST APIs and backend services with **Java Spring Boot** and **Node.js**
+- Work with databases like **MySQL** and **MongoDB**
+- Follow Agile methodologies and best engineering practices
 
-### Skills
+### 🧰 Skills
 
-🌐 **Frontend:**
+**🌐 Frontend**
 - HTML5 🌈
 - CSS3 🎨
-- JavaScript ⚙️
+- JavaScript (ES6+) ⚙️
 - TypeScript 📘
 - React ⚛️
 
-🛠️ **Framework:**
-- Bootstrap 🅱️
+**🛠️ Frameworks**
 - Angular 🅰️
+- Bootstrap 🅱️
 - Next.js 🚀
 
-💻 **Languages:**
+**💻 Languages**
 - C 🐍
 - C++ 🖥️
 - Core Java ☕
 
-🛢️ **Database:**
+**🛢️ Databases**
 - MySQL 🐬
-- MongoDB 🍃
+- NoSQL 🍃
 
-🚀 **Backend:**
+**🚀 Backend**
+- Spring Boot 🌱
 - Node.js 🚅
 - Express.js 🛤️
 
-🔧 **Other:**
+**🔧 Tools**
 - Git 🌀
+- GitLab 🦊
 
+### 📫 Let’s Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meghnabansod/) or drop me an [email](mailto:meghnabansod26@gmail.com).
 
-Explore the projects in this repository, and let's collaborate and build amazing things together!
+⭐ Explore the projects in this repository — let’s collaborate and build amazing things together!
